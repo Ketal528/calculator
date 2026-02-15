@@ -27,5 +27,5 @@ A responsive and modern calculator built using:
 ## Author
 
 Ketal Sutariya  
-Frontend Developer
+web Developer
 
