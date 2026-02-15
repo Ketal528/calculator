@@ -1,2 +1,31 @@
-# calculator
-Responsive calculator web app built with HTML, CSS, and JavaScript. Includes modern UI and keyboard support.
+# Advanced Calculator
+
+A responsive and modern calculator built using:
+
+- HTML
+- CSS
+- JavaScript
+
+## Features
+
+- Responsive Design
+- Keyboard Support
+- Error Handling
+- Modern UI
+- Portfolio Ready
+
+## Live Demo
+
+ https://ketal528.github.io/calculator/
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+## Author
+
+Ketal Sutariya  
+Frontend Developer
+
